@@ -6,7 +6,7 @@ OUTPUT in Object detection on Image:
 
 -  YOLOv8 successfully detects multiple objects in a single forward pass. 
 
--  From the given image, a total of five objects were detected using the YOLOv8 model. 
+-  From one image, a total of five objects were detected using the YOLOv8 model. 
 
 -  Among these detections, four objects were classified as persons and one object was classified as a vehicle (bus). 
 
