@@ -25,4 +25,3 @@ OUTPUT in Object detection on Video:
 
 -  Vehicles closer to the camera and with minimal occlusion were detected more accurately. 
 
--  Video after object detection: yolov8_output.avi 
